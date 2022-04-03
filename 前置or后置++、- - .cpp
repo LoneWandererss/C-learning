@@ -3,12 +3,12 @@ int main()
 {
 	int a = 10;
 	int b;
-	b = ++a;                //ÏÈ++£¬ÔÙÊ¹ÓÃ 
+	b = ++a;                //å…ˆ++ï¼Œå†ä½¿ç”¨
 	printf("a = %d\n",a);
 	printf("b = %d\n",b);
 	int c = 10;
 	int d;
-	d = c++;                //ÏÈÊ¹ÓÃ£¬ÔÙ++ 
+	d = c++;                //å…ˆä½¿ç”¨ï¼Œå†++
 	printf("c = %d\n",c);
 	printf("d = %d\n",d);
 	return 0;
