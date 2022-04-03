@@ -4,12 +4,12 @@ int main()
 	int i = 0;
 	int n = 0;
 	int ret = 1;
-	printf("求n的阶乘！n = ",n);
+	printf("姹俷鐨勯樁涔橈紒n = ",n);
 	scanf("%d",&n);
 	for(i=1;i<=n;i++)
 	{
 		ret = ret*i;
 	}
-	printf("结果为：%d \n",ret);
+	printf("缁撴灉涓猴細 \n",ret);
 	return 0;
 }
