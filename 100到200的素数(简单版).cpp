@@ -6,7 +6,7 @@ int main(void)
 	for(i=100;i<=200;i++)
 	{
 		int j = 0;
-		for(j=2;j<i;j++)    //ÊÔ³ý·¨ 
+		for(j=2;j<i;j++)      //è¯•é™¤æ³•
 		{
 			if(i%j == 0)
 			{
