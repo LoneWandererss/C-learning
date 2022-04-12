@@ -8,7 +8,7 @@ int main(void)
 	{
 		int j = 0;
 		for(j=2;j<=sqrt(i);j++)   //m = a * b
-		{                         //a或b <= 开平方m 
+		{                         //a鎴朾 <= 寮�骞虫柟m 
 			if(i%j == 0)
 			{
 				break;
