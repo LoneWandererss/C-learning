@@ -7,11 +7,11 @@ int main(void)
 	{
 		if(i%10 == 9)
 		{
-			count++;  //个位 
+			count++;  //涓綅
 		}
 		if(i/10 == 9)
 		{
-			count++;  //十位 
+			count++;  //鍗佷綅
 		}
 	}
 	printf("count = %d\n",count);
